@@ -1,3 +1,7 @@
+/* Here's the style.css, please don't mess with anything unless you know what youre doing. o-('-')-o */
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
 h1, h2, h3, h4, h5, a, p {
   font-family: Outfit;
   color: #aaaaff;
@@ -6,4 +10,10 @@ h1, h2, h3, h4, h5, a, p {
 body {
   text-align: center;
   background-color: #001165;
+}
+
+#button {
+  border-radius: 7px;
+  width: 165px;
+  height: 165px;
 }
